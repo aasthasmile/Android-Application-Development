@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CustomSpinner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_actress">Actress</string>
+    <string name="title_activity_movies">Movies</string>
+    <string name="title_activity_actor">Actor</string>
+    <string name="title_activity_movies_database">MoviesDatabase</string>
+    <string name="Tamasha">Tamasha</string>
+    <string name="Yeh_Jawaani_Hai_Deewani">Yeh Jawaani Hai Deewani</string>
+    <string name="Bajirao_Mastani" >Bajirao Mastani</string>
+    <string name="Goliyon_ki_Rasleela_Ramleela">Goliyon ki Rasleela Ramleela</string>
+    <string name="Piku">Piku </string>
+    <string name="Cocktail">Cocktail</string>
+    <string name="Chennai_Express">Chennai Express</string>
+    <string name="Happy_New_Year">Happy New Year</string>
+    <string name="Love_Aaj_Kal"> Love Aaj Kal</string>
+    <string name="Om_Shanti_Om">Om Shanti Om</string>
+</resources>

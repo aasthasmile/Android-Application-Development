@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">HW2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="animals">
+        <item>Giraffe</item>
+        <item>Parrot</item>
+        <item>Peacock</item>
+        <item>Sumatran Tiger</item>
+        <item>Turtle</item>
+    </string-array>
+
+    <string name="title_activity_info_animal">InfoAnimal</string>
+
+    <string-array name="infoanimal">
+        <item>The giraffe is a genus of African even-toed ungulate mammals, the tallest living terrestrial animals and the largest ruminants. The genus consists of eleven species including Giraffa camelopardalis, the type species</item>
+        <item>Parrots, also known as psittacines /ˈsɪtəsaɪnz/, are birds of the roughly 393 species in 92 genera that make up the order Psittaciformes, found in most tropical and subtropical regions</item>
+        <item>The peacock include two Asiatic bird species and one African species of birds in the genera Pavo and Afropavo of the Phasianidae family, the pheasants and their allies, known for the male\'s piercing</item>
+        <item>The Sumatran tiger (Panthera tigris sumatrae) is a rare tiger subspecies that inhabits the Indonesian island of Sumatra. It has been listed as Critically Endangered on the IUCN Red List in 2008 as the population was estimated at 441 to 679 individuals</item>
+        <item>Turtles are reptiles of the order Testudines characterised by a special bony or cartilaginous shell developed from their ribs and acting as a shield. "Turtle" may refer to the order as a whole or to fresh-water and sea-dwelling testudines</item>
+    </string-array>
+
+    <array name="images">
+        <item>@drawable/giraffe</item>
+        <item>@drawable/parrot</item>
+        <item>@drawable/peacock</item>
+        <item>@drawable/sumatratiger</item>
+        <item>@drawable/turtle</item>
+    </array>
+    <string name="title_activity_information">Information</string>
+</resources>
